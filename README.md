@@ -1,5 +1,7 @@
 # clean-code-example
 
+## 3장. 함수 
+
 #### Origin Code 
 ```javascript
 httpClient.interceptors.request.use((config: AxiosRequestConfig) => {
